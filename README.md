@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sureshravuris
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Programming, ML & DL
+- 👨‍💻 Let's connect and collaborate on interesting projects! 💻
