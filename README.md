@@ -17,7 +17,8 @@
  🌱 I worked at Cognizant as a Microsoft Business Intelligence Developer for a Year :)
 
  💬 Open to both internship and full-time opportunities in Software Engineering/ Data Science Fields.
-
+ 
+⚡ ***CONSISTENCY is the key to Success!***
 
 
 </div>
