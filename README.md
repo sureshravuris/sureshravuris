@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sureshravuris.sureshravuris" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=11d4be&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suresh+Ravuri;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
