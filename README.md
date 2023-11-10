@@ -4,6 +4,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=11d4be&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suresh+Ravuri;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
+ 
 <h3 align="center">A passionate Data Scientist from California</h3>
 
 <br/>
@@ -16,7 +18,7 @@
 
  💬 Open to both internship and full-time opportunities in Software Engineering/ Data Science Fields.
 
- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
+
 
  
  </div>
