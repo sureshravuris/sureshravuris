@@ -20,8 +20,7 @@
 
 
 
- 
- </div>
+</div>
 
 <div align="center"> 
   <a href="mailto:sureshravuri.official@gmail.com">
