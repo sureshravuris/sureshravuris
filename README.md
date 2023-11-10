@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sureshravuris.sureshravuris" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=11d4be&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suresh+Ravuri;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=1189d4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suresh+Ravuri;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 
  <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
