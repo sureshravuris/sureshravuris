@@ -77,6 +77,7 @@
 <a href="https://www.leetcode.com/sureshravuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sureshravuri" height="30" width="40" /></a>
 
 <br/>
+<br/>
 
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=36&pause=1000&color=0077B5&random=false&width=500&height=70&lines=Thanks+for+Visiting!;Shoot+Me+a+Message+on+Linkedin!;I'm+always+down+to+Collab%3A)" alt="Typing SVG" /></a>
