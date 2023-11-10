@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently pursuing Master's in Software Engineering with Data Science Specialization at San Jose State University, CA.
  
