@@ -1,8 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
-
-
-
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1" />
 
 <h1 align="center">
@@ -20,6 +15,8 @@
  🌱 I worked at Cognizant as a Microsoft Business Intelligence Developer for a Year :)
 
  💬 Open to both internship and full-time opportunities in Software Engineering/ Data Science Fields.
+
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
 
  
  </div>
