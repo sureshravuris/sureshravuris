@@ -6,7 +6,7 @@
 
  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
  
-<h3 align="center">A passionate Data Scientist from California</h3>
+<h3 align="left">A passionate Data Scientist from California</h3>
 
 <br/>
 
