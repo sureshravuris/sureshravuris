@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sureshravuris.sureshravuris" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=0077b5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suresh+Ravuri;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=37&pause=500&color=0077b5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suresh+Ravuri;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 
  <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
@@ -79,7 +79,7 @@
 <br/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=40&pause=1000&color=0077B5&random=false&width=500&height=70&lines=Thanks+for+Visiting!;Shoot+Me+a+Message+on+Linkedin!;I'm+always+down+to+Collab%3A)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=36&pause=1000&color=0077B5&random=false&width=500&height=70&lines=Thanks+for+Visiting!;Shoot+Me+a+Message+on+Linkedin!;I'm+always+down+to+Collab%3A)" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
