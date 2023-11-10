@@ -35,6 +35,7 @@
 </div>
 
   <br/>
+  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Libraries ⚒️</h2>
 <br/>
 <div align="center">
