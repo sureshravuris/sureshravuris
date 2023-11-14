@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Libraries ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,r,java,javascript,typescript,nodejs,bash,ruby,go" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,javascript,typescript,nodejs,bash,ruby,go" />
     <img src="https://skillicons.dev/icons?i=react,angular,matlab,html,css,django,flask,redux,tensorflow,pytorch" /><br>
 </div>
 
