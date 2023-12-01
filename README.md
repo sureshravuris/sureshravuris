@@ -12,7 +12,7 @@
 
 <div align="left">
  
- 🔭 I’m currently pursuing Master's in Software Engineering with Data Science Specialization at San Jose State University, CA.
+ 🔭 I’m currently pursuing Master's in Software Engineering with Data Science Specialization at San Jose State University, CA. (2023-2025)
  
  🌱 I worked at Cognizant as a Microsoft Business Intelligence Developer for a Year :)
 
