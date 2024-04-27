@@ -81,7 +81,7 @@
 <br/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=36&pause=1000&color=0077B5&random=false&width=500&height=70&lines=Thanks+for+Visiting!;Shoot+Me+a+Message+on+Linkedin!;I'm+always+down+to+Collab%3A)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=36&pause=1000&color=0077B5&random=false&width=500&height=70&lines=Thanks+for+Visiting!;Shoot+Me+a+Message+on+LinkedIn!;I'm+always+down+to+Collab%3A)" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
