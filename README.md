@@ -14,7 +14,7 @@
  
  🔭 I’m currently pursuing Master's in Software Engineering with Data Science Specialization at San Jose State University, CA. (2023-2025)
  
- 🌱 I worked at Cognizant as a Microsoft Business Intelligence Developer for a Year :)
+ 🌱 I worked at Cognizant as a Data Engineer for a Year :)
 
  💬 Open to both internship and full-time opportunities in Software Engineering/ Data Science Fields.
  
