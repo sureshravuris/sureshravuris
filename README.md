@@ -6,17 +6,21 @@
 
  <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
  
-<h3 align="left">A passionate Data Scientist from California.</h3>
+<h3 align="left">A passionate Data Engineer and Software Developer from California.</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently pursuing Master's in Software Engineering with Data Science Specialization at San Jose State University, CA. (2023-2025)
+ 🎓 Currently pursuing Master's in Software Engineering with Data Science Specialization at San Jose State University (2023-2025)
  
- 🌱 I worked at Cognizant as a Data Engineer for a Year :)
+ 💻 Recent experience as a Data Engineer working with ETL pipelines for **Aston Martin @ Cognizant**
 
- 💬 Open to both internship and full-time opportunities in Software Engineering/ Data Science Fields.
+ 📚 Currently working as a Machine Learning Teaching Associate at SJSU
+
+ 💬 Open to both internship and full-time opportunities in Data Engineering/ Data Science Fields.
+
+ 📫 Contact: suresh.ravuri@sjsu.edu
  
 ⚡ ***CONSISTENCY is the key to Success!***
 
