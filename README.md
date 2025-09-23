@@ -11,7 +11,7 @@
 
 
 ---
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
 
 ### 👨‍🎓 About Me  
 - 🎓 Graduated with **MS in Software Engineering (Data Science Specialization)** from **San José State University** (GPA 4.0/4.0)  
