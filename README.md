@@ -12,7 +12,7 @@
 
 ### 👨‍🎓 About Me
 - 🎓 Graduated with **MS in Software Engineering (Data Science Specialization)** from **San José State University** (GPA 4.0/4.0)
-- 💻 3+ years of experience in **Distributed Systems, Real-Time Streaming, Backend Services, and ML Pipelines** across **Cognizant (Walmart & Adobe)** and academia
+- 💻 3+ years of experience in **Distributed Systems, Real-Time Streaming, Backend Services, and ML Pipelines** across **Cognizant** and academia
 - 📊 Passionate about building **scalable microservices, real-time pipelines, and AI-driven products**
 - 📚 Teaching Associate (AI/ML & Data Engineering) at SJSU – mentored 70+ graduate students
 - 🤖 Currently building an **Agentic AIOps Copilot** using LLMs & RAG for automated ETL and observability diagnostics
